@@ -17,9 +17,6 @@ from pyMC.gksmc import gksmc_r
 from pyMC.gksmc import gksmc_symm
 from pyMC.gksmc import gks_sym_general
 from pyMC.gksmc import gksmc_r_symm
-from pyMC.gksmc import uks_nlc
-from pyMC.gksmc import gksmc_nlc
-# from pyMC.gksmc import gksmc_nlc_sd
 
 try:
     from pyscf.dft import libxc
